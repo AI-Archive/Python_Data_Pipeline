@@ -1,6 +1,6 @@
 print("Hello Python")
 
-breakpoint()
+# breakpoint()
 
 for i in range(10):
     print(i)
